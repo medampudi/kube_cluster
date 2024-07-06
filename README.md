@@ -1,6 +1,4 @@
-Here is the updated README file with the commands and attribution, excluding the full code files.
 
----
 
 # Kubernetes Cluster Setup on Ubuntu 22.04 with Kubernetes 1.29 on Contabo VPS
 
@@ -78,7 +76,3 @@ You should see a list of your master and worker nodes in the `Ready` state.
 This setup guide was inspired by:
 - The [DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04)
 - The [kubernetes-playbooks](https://github.com/torgeirl/kubernetes-playbooks/tree/main) repository by Torgeir L. Hatlevik, which provided invaluable guidance, especially regarding Kubernetes dependencies and APT key setup.
-
----
-
-This README provides a comprehensive guide to set up a Kubernetes cluster on Ubuntu 22.04 with Kubernetes 1.29 on Contabo VPS servers, leveraging Ansible for automation and ease of deployment.
